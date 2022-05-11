@@ -9,8 +9,8 @@
 ?>
 
 <?php
-    define('DB_NAME', 'ecom');
-    define('DB_HOST', 'localhost');
+    define('DB_NAME', 'papercutenergy');
+    define('DB_HOST', '127.0.0.1');
     define('DB_USER', 'root');
-    define('DB_PASS', '');
+    define('DB_PASS', 'flag{whereisfatmasister}');
 ?>
